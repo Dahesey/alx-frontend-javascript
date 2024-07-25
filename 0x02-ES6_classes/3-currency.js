@@ -1,5 +1,5 @@
 export default class Currency {
-    -Constructor(code, name) {
+    _Constructor(code, name) {
       this._code = code;
       this._name = name;
     }
